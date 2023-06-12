@@ -1,0 +1,32 @@
+.gifContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.gifs{
+    width: 6.25rem;
+    height: 6.25rem;
+    margin-left: 5rem;
+    margin-top: 15rem;
+}
+.numberContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.numbers{
+    width: 6.25rem;
+    height: 6.25rem;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.btn{
+    margin-top: 1rem;
+   margin-left: 1rem;
+
+}
