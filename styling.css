@@ -30,3 +30,12 @@
    margin-left: 1rem;
 
 }
+@media screen and (max-width: 570px) {
+    .numberContainer{
+        flex-direction: column;
+    }
+    .gifContainer{
+        flex-direction: column;
+    }
+    
+}
