@@ -1,4 +1,4 @@
-const gifUrl = "https://mir-s3-cdn-cf.behance.net/project_modules/hd/e5079365113681.5ae94b6872f65.gif";
+const gifUrl = "https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif";
 const gifUrlList = [];
 let numberList = [];
 let lastNumber = 0;
@@ -37,7 +37,5 @@ $("#dequeue").on("click", () => {
 
 
         swal("success", "Dequeued successfully!", "success");
-
     }
-
 });
